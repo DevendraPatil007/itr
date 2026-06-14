@@ -31,13 +31,13 @@ console.log(person["person hobbie"]);
 
 // created one variable
 
-const key = "email";
+// const key = "email";
 
-const person = {
-    name : "Yatin",
-    age : 23,
-    "person hobbie" : ["chess","games","sketches"]
-}
+// const person = {
+//     name : "Yatin",
+//     age : 23,
+//     "person hobbie" : ["chess","games","sketches"]
+// }
 
 // Dot Notation (adding data with key variable)
 
@@ -49,8 +49,8 @@ const person = {
 // Bracket Notation (adding data with key variable)
 
 // person["key"] = "abcd2323@gmail.com";
-person[key] = "abcd2323@gmail.com";
-console.log(person);
+// person[key] = "abcd2323@gmail.com";
+// console.log(person);
 
 // here when we give key variable it fetches its value and 
 // value is assigned as key and to it email data in person object.

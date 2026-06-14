@@ -141,7 +141,7 @@ console.log(var3);
 
 const myarr = ["value1","value2","value3","value4","value5"];
 // with help of spread operator
-const[var1,var2,var3,...newarr]=myarr;
+const[var1,,var2,,var3,...newarr]=myarr;
 
 // Array is Destructed and stored in variables
 // and variable act similar to normal var

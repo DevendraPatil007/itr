@@ -1,4 +1,4 @@
-// primitive Vs Reference data type.
+// primitive Vs Reference data type. post
 
 // Primitive Type :
 let num1 = 6;
