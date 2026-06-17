@@ -1,5 +1,5 @@
 // What is DOM ?
-
+console.log (Window);
 // DOM --> Document Object Model :
 // 1. OverView .
 // 2. How to use.

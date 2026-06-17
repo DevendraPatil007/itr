@@ -19,29 +19,9 @@
  
 */
 
-/*
-// Case 1: This is Long Way :
 
-// With Help of createElement Method new li created.
-const newTodoItem = document.createElement("li");
-// console.log(newTodoItem);
 
-// Here New TextNode Created added data and appended with li.
-const newTodoItemText = document.createTextNode("Teach Students");
-newTodoItem.before(newTodoItemText);
-console.log(newTodoItem);
 
-// So Now li new Element is created we need to add it to
-// Existing ul list
-// fetching the ul todolist:
-const todolist = document.querySelector(".todo-list");
-todolist.append(newTodoItem);
-// appending to ul list the new element we created
-console.log(newTodoItem);
-
-*/
-
-/*
 // Case 2: there is No Need to create new textNode
 // we have short solution for it .
 const newTodoItem = document.createElement("li");
@@ -59,7 +39,7 @@ console.log(newTodoItem);
 
 // Append :- Adds New Element at last . 
 // Prepend:- Adds New Element at Start .
-*/
+
 
 
 
