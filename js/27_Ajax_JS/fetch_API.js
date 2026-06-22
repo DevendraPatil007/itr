@@ -69,7 +69,7 @@ promise.then((response)=>{
 
 // =========================================================================================
 
-const URL ="https://jsonplaceholder.typicode.com/posts";
+const URL ="https://fakestoreapi.com/products";
 // const URL ="https://jsonplaceholder.typicode.com/postss";
 
 const promise = fetch(URL,{

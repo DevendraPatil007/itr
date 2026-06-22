@@ -19,3 +19,7 @@ function Layout() {
 }
 
 export default Layout;
+// create a navbar and footer 
+//maintain folder structure to 
+//navlink and link components 
+//showcase one 
